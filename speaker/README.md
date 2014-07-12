@@ -13,6 +13,10 @@ power draw while playing
 5v supply into usb: up to 100ma, depends on music volume
 3.3v into battery connections: up to 130mA on same music volume as above
 
+#other notes
+
+uses the HXJ8002 mono amp
+
 # mod instructions
 
 * unclip speaker
