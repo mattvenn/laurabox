@@ -3,7 +3,8 @@
 battery voltage is 3.2v
 battery voltage charging (disconnected) 4.7
 battery current charging 130mA
-
+with battery charging, current 200mA
+with battery cut, current 10mA
 
 still works with battery disconnected and usb power, no difference in sound quality
 
